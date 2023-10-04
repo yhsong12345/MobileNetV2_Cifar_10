@@ -25,7 +25,7 @@ Pretrained model should be downloaded if you click the name of Model.
 
 | Model             | Acc.        | Param.        |
 | ----------------- | ----------- |----------- |
-| [MobilenetV2]()          | 81.07%      |  2.2M     |
+| [MobilenetV2]()          | 86.8%      |  2.2M     |
 
 
 ## Plot
