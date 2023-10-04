@@ -11,12 +11,12 @@ This is the practice for the implementation of MobileNetV2.  Models are trained 
 ## Training
 ```
 # GPU training
-python train.py -m Mobilenet0.5 -e 300 -lr 0.01 -b 128 -s 32 -d outputs
+python train.py -m MobilenetV2 -e 200 -lr 0.01 -b 128 -s 32 -d outputs
 ```
 
 ## Testing
 ```
-python test.py -m Mobilenet0.5 -e 300 -lr 0.01 -b 128 -s 32 -d outputs
+python test.py -m MobilenetV2 -e 200 -lr 0.01 -b 128 -s 32 -d outputs
 ```
 
 ## Result (Accuracy)
